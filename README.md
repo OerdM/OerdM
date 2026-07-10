@@ -10,7 +10,7 @@
 
 - Full-stack developer working with C# / .NET and React, currently interning on accounting software
 - Contributing to **[Pardus Linux](https://www.pardus.org.tr/)** through TEKNOFEST
-- Comfortable across the stack — from Blazor / ASP.NET Core services down to C++ / Qt desktop tooling and Linux internals
+- Comfortable across the stack from Blazor / ASP.NET Core services down to C++ / Qt desktop tooling and Linux internals
 - Terminal-native workflow on Arch Linux (Neovim, zsh)
 
 ---
@@ -38,7 +38,7 @@ Cooperative logistics & inventory synchronization system. Clean Architecture on 
 `.NET 9` · `Blazor` · `SignalR` · `PostgreSQL`
 
 **Miko Multiplayer (STMP)**
-Multiplayer extension for **SillyTavern** — Socket.io room management, persona injection, message replication and Cloudflare tunnel support. Released under **AGPL-3.0**.
+Multiplayer extension for **SillyTavern** Socket.io room management, persona injection, message replication and Cloudflare tunnel support. Released under **AGPL-3.0**.
 `Node.js` · `Socket.io` · `JavaScript`
 
 **RamScam**
