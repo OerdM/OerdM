@@ -35,7 +35,7 @@
 
 **CoopSync** *(syndic-node)*
 Cooperative logistics & inventory synchronization system. Clean Architecture on .NET 10 Blazor, real-time sync via SignalR, backed by PostgreSQL / EF Core.
-`.NET 9` · `Blazor` · `SignalR` · `PostgreSQL`
+`.NET 10` · `Blazor` · `SignalR` · `PostgreSQL`
 
 **Miko Multiplayer (STMP)**
 Multiplayer extension for **SillyTavern** Socket.io room management, persona injection, message replication and Cloudflare tunnel support. Released under **AGPL-3.0**.
