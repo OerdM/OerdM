@@ -10,7 +10,7 @@
 
 - Full-stack developer working with C# / .NET and React, currently interning on accounting software
 - Contributing to **[Pardus Linux](https://www.pardus.org.tr/)** through TEKNOFEST
-- Comfortable across the stack from Blazor / ASP.NET Core services down to C++ / Qt desktop tooling and Linux internals
+- Comfortable across the Blazor / ASP.NET Core services stack
 - Terminal-native workflow on Arch Linux (Neovim, zsh)
 
 ---
@@ -50,4 +50,3 @@ Gambling-simulation web app with a "RAM-as-chips" mechanic. React / Vite fronten
 ### Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME)
-<!-- Add other links you want here: e.g. blog, LinkedIn, email -->
